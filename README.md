@@ -37,58 +37,33 @@ It seems possible that different particle interactions will lose differing amoun
 If we look a toy system of isotopically stable gas held in thermal equilibrium, we can write an equation to illustrate the concept. Most practical versions of this equation will be much more complex, but the principle will remain the same.
 
 * *I<sub>now</sub>* is the aggregate of all information that is carried by the particles under consideration at time = now. This simplified notion of time disregards the speed of causality.
-* *P<sub>avg</sub>* is the average fraction of causal information retained in each interaction. This number is slightly less than one, and can be thought of as *precision*.
+* *P<sub>avg</sub>* is the average fraction of causal information retained in each interaction. This number is slightly less than one due to the loss of precision in the calculation that performs the transformation of particle properties, and can be thought of as *precision* or *predictability/postdictability*.
 * *K<sub>avg</sub>* is the average number of interactions that each particle experiences per second.
-* *P(t - t<sub>now</sub>)* is the cumulative fraction of causal information wihch is retained during the interactions withing the time interval. It is approximately equal to *P<sub>avg</sub>* raised to the power of *K<sub>avg</sub>* times *(t - t<sub>now</sub>)*, except that it goes to exactly zero at time distances where its result becomes smaller than *(1 - P<sub>avg</sub>)*.
+* *P(t - t<sub>now</sub>)* is the cumulative fraction of causal information wihch is retained during the interactions withing the time interval. It is approximately equal to *P<sub>avg</sub>* raised to the power of *(K<sub>avg</sub>* &#215; *(t - t<sub>now</sub>))*, except that it goes to exactly zero for time distances beyond which the magnitude of the result dips below approximately *(1 - P<sub>avg</sub>)*.
 * *I<sub>then</sub>(t - t<sub>now</sub>)* is all of the information about the moment at time *t* which can be calculated from *I<sub>now</sub>* using infinite precision math.
-
-
-
-
+* *C* is the conserved value of causality.
 
  In equation form, causality is the integral of all extant information about how the universe interacts with itself from time negative infinity to time plus infinity for any given *t<sub>now</sub>*. 
 
  ![alt text](Causality.png)
 
-## The meaning of *F<sub>sh</sub>*
-The function *F<sub>sh</sub>* expresses how causality is discounted as time passes, which is far too complex to express in full for a complex system such as a rocky planet. But there are isolated portions of simple systems where it can be calculated, and a high-temperature and high pressure gas of stable isotopes at equilibrium is one such. 
+The author does not know what the dimensionality of terms *I<sub>then</sub>* or *C* should be, but that deficit does not affect the implications of the conserved property.
 
-As must be true for conservation laws, there is more than one way to derive this one. One way that the conservation of causality can be implied in full is by asserting that that a universe of finite spatial size but infinite longevity may be represented by a finite amount of information. If specifying a universe of finite size and infinite longevity using only a finite amount of information is physically possible, then our universe must contain only a finite amount of information. That's because parsimony insists that a universe which requires an infinite amount of information in order to exist must be infinitely less likely than a similar-looking universe requiring only a finite amount of information. 
+## Implications
+### Some interactions may perhaps be lossless
+Because loss of causality happens due to loss of precision during computationally non-trivial interactions, it seems possible that there could exist mathematically trivial interactions which might escape this loss. Perhaps photon reflections which are close enough to normal might invoke a lossless transform of sign inversion, for example.
 
-Knowing that the information content of our universe is finite tells us that the informaiton content of each particle is also finite, and this tells us that the causal past for a particle containing finite information is also finite in time. This is because for the past to affect the present, those past effects must be encoded in the information that defines the particle somehow. If a past event has no representation in that particle's information, then it has no causal effect on whatever the particle might do next, so that past event is not part of the particle's causal past.
+## Time is not reversible
+The loss of causality during non-trivial interactions means that time is fundamentally irreversible in a universe defined by a finite amount of information.
 
-This <i>F</i>sh function captures the fact that shit happens, and it's hard not to notice that science laboratories have a hard time capturing this reality where it can be examined. Part of the issue of seing shit happen in the laboratory is that when shit does happen we stop calling it laboratory conditions. Your sample get zapped by a rare gargantuan cosmic ray shower? Throw that one out!
+### Causality in the presence of structure
+It is relatively easy to visualize causality for liquids, gasses, and plasmas, but the self-stabilizing structure of solids make them more difficult to visualize. They pose no problem to the overall concept, but their mathematical representation is beyond the author.
 
+### Conservation of causality versus conservation of information
+For small interactional distances, *P(t - t<sub>now</sub>)* is so close to unity that conservation of causality collapses to the current incorrect view of conservation of information, which makes the information-proliferating assumption that *P(t - t<sub>now</sub>)* is unity for all time *t*.
 
- is only nearly correct, and that error arises from the need to generalize this law to account for elapsed time.
+### Event horizons are no longer so interesting
+Knowing that specific causality is not conserved while the sum total of causality is conserved simplifies black holes enormously. Rather than information being mysteriously encoded onto an event horizon, an infalling body gets bathed in high-temperature and high-pressure reactions which quickly erases any causality contained in the structure of the infalling body. The simple mass-energy of the black hole is then a perfecly fitting container for all of the black hole's information.
 
-Completing the full principle of conservation of information 
-
-The fact that this value is constant over time also means that it cannot be infinite. This means that, contrary to the more common interpretation, specific bits of information are continually being created and destroyed, while only the universe's total quantity of information is conserved. Every subatomic particle interaction "creates" information in this view, and the math says that this must be causally connected, at least statistically, to an offsetting decrease in certainty in the rest of the sytsem. The value being conserved is the sum of all physically extant information about the present, plus all information about the past that can be inferred from the physically extant information about the present, plus all information about the future that can be predicted from physically extant information about the present. The bulk of physically extant information will cluster around the present, with inferrable information contributing less as time distance increases. Information is statistical in nature, which means that farther away an event is in time, the more the information must be discounted due to the exponentially cumulative degradation of statistical certainty over repeated temporal iterations.
-
-
-
-
-This method of calculating information conservation makes it possible to define a finite universe of infinite longevity with a finite amount of information. It also implies that a deterministic non-repeating universe would contain an infinite amount of information at all times in its existence, which to the author seems appropriately impossible. 
-
-This calculation of conserved information should have the effect of removing infinities from some calculations involving time because conserved causal information means causal time is finite; the ability to infer the past or predict the future degrades with increasing distance in time, and at some point it drops all the way to zero for smaller sizes and unstable structures. An obvious example is a gas held at constant high temperature and pressure. The precise state of such a gas has no causational correlation with states even a few seconds away, meaning that the past and future have reached their physical limits in finite time. Conversely, condensed matter at low temperatures has a potentially very lengthy but still finite future.
-
-This calculation implies a special meaning for black holes, which is that rather than removing information from the universe, they merely remove information from the present and push it into the extremely distant future by evaporation where it is still part of the integral. Black holes are then remarkable for having a much longer causal future than other forms of matter. But the black hole's specific future information is not identical to the information that it absorbed in the past. Instead, the future information that is available is the object's emission spectrum predicted very precisely over a very long time. An emission spectrum is very little information by itself, but over the time required for the object to evaporate, that small amount of information becomes a very large amount.
-
-The author lacks the skill to assess whether this conversion of lost past information to gained future predictability balances properly, and so cannot make any further informed comment, but the unique situation of evaporating black holes having such a strong effect on the total conserved information of the universe over very lengthy time periods does seem to suggest that the mathematical method for discounting information over various time distances might be closely related to the time evolution of evaporating black holes. 
-
-Calculating conserved information in this new way places a limit on the kinds of universes that can make their way into being; universes that can come into being using only a finite amount of informaiton would have to be infinitely more common than universes which require an infinite amount of information to come into being.
-
-They also make the possibly rash assumption that the math needed to integrate statistical information over time will arise fairly smoothly from standard statistical methods by enforcing this new conservation constraint, but those skills are also beyond them.
-
-This proposal gives a more solid mathematical foundation to the fact that the future and past are more predictable and postdictable on larger scales than on smaller. It says that predictability and postdictability of the future and past reach zero at over even relatively small time distances at sub-atomic particle scales. 
-
-Perhaps the simplest version of this new picture of the universe is that every subatomic particle is a multi-dimensional cloud of probability consisting of the time dimension, three spatial dimensions, plus the minimum number of dimensions required to describe its modes of interaction, and containing a constant amount of information. When one cloud interacts with another, the result is some new non-zero number of clouds whose total adds up to the original two. And the total system somehow conserves total information integrated over time. This suggests a physical limitation; that information is somehow encoded in the interactions between the particles of mass-energy composing physical reality. Parsimony suggests that the particles literally are the information, and vice-versa. The author presumes that some bright spark who, unlike the author, actually knows the relevant math will establish a one-to-one correspondence at some point.
-
-Adding up the information in every multi-dimensional particle cloud in the universe at every instant (ignoring the speed of causality) gives a constant value, which means that every time two particles interact, something has happened, which increases the local knowledge in at least some dimensions. (The system went from not knowing something about what would happen next to knowing something about what just happened.) This means that somewhere in the system an offsetting amount of certainty about the past or future must be lost to compensate. It is appealing to presume that this constancy of information happens at the level of interaction, but it is perhaps possible that the conservation somehow happens at some other level.
-
-To (yet again) say the same thing slightly differently, the past and future have finite limits that are a function of the scale and stability of the structures in the system, and beyond those limits the past has zero causal effect, meaning that the past stops at that point. Similarly, the future has finite limits to predictability, and beyond those limits the future is no longer physically meaningful because it exhibits zero causal connection to the present. If we are unable to affect a future by our actions, then it is not causally our future in any real sense.
-
-The author suspects that any alternative to this viewpoint will require that proposed alternative universe to contain infinite information, making that alternate interpretation infinitely unlikely in comparison. They further suspect that integrating this version of the information conservation law into quantum mechanics and then into general relativity will not prove to be an intractable task, and that doing so will render the two mutually compatible. Of course, this is the cheerful optimism of someone who doesn't have to do the hard work.
-
-The author’s mathematical skills break down completely here, and they hope that others will find this idea useful.
+## Next Steps
+The author’s enthusiasm and mathematical skills break down completely at this point, and they have no intention of pursuing this beyond this basic sketch. They hope that others will find this idea useful.
