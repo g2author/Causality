@@ -1,6 +1,6 @@
-# Cnservation of Causality: Generalizing Conservation of Information Makes the Physical Universe Possible, Renders Event Horizons Boring, and Unifies Physics
+# Conservation of Causality: Generalizing Conservation of Information Makes the Physical Universe Possible, Renders Event Horizons Boring, and Unifies Physics
 
-by Taylor Swift Fan
+by G2 Author
 
 ## Abstract
 This paper proposes that conservation of information be generalized into the dimension of time so that it includes not only the conservation of instantaneous information, but also conservation of the integral of all extant information, including predictability and postdictability,for any given moment in time. The author is calling this conserved integral *causality*. Satisfaction of this new dimension of conservation ensures that the physical universe is able to exist, and enforces changes upon quantum mechanics, and perhaps general relativity, which the author suspects will allow the unification of physics.
