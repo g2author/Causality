@@ -28,9 +28,9 @@ That limited precision is a (and perhaps the) primary source of fundamental rand
 
 Although the new particles contain the same total amount of information as the old particles, they do *not* contain all of the information in the original particle set. Some of that information has been lost due to limited precision, and the new particles gain the complete certainty of their own state that comes from holding the defining data. This loss of precision represents a reduced ability to infer the state of the old particles from the information in the new particles. In other words, a small piece of the causal past has been lost forever, making the calculation only approximately reversible.
 
-In our physical reality this loss is experimentally indectable over the smallish numbers of interactions that are captureed by experiment, giving the impression that information is conserved with infinite precision.
+In our physical reality this loss is experimentally indectable over the smallish numbers of interactions that are captured by experiment, giving the impression that information is conserved with infinite precision.
 
-This loss accumulates exponentially with the number of interactions that take place, and after a sufficient number of interactions it reduces the causal significance of the more distant past to where it is lower in magnitude that the randomness injected into the process at each step by loss of precision, at which point the causal influence of any events farther in the past has reached exactly zero.
+This loss accumulates with the number of interactions that take place, and after a sufficient number of interactions it reduces the causal significance of the more distant past to where it is lower in magnitude that the randomness injected into the process at each step by loss of precision, at which point the causal influence of any events farther in the past has reached exactly zero.
 
 It seems possible that different particle interactions will lose differing amounts of causal information. For example, and interaction that only exchanges momentum would be expected to only lose momentum information, while an interaction that alters particle identity as well will be transforming more parameters, and therefore losing more information. This nuance is worth a lot more attention that I'm able to give it, and for now I'm going to make the simplifying assumption that these losses can be treated as statistically constant. 
 
@@ -54,7 +54,7 @@ The author does not know what the dimensionality of terms *I<sub>then</sub>* or 
 Because loss of causality happens due to loss of precision during computationally non-trivial interactions, it seems possible that there could exist mathematically trivial interactions which might escape this loss. Perhaps photon reflections which are close enough to normal might invoke a lossless transform of sign inversion, for example.
 
 ### Time is not reversible
-The loss of causality during non-trivial interactions means that time is fundamentally irreversible in a universe defined by a finite amount of information.
+The loss of causality during non-trivial interactions means that outside of carefully managed environments and interactions, time is fundamentally irreversible in a universe defined by a finite amount of information.
 
 ### Causality in the presence of structure
 It is relatively easy to visualize causality for liquids, gasses, and plasmas, but the self-stabilizing structure of solids make them more difficult to visualize. They pose no problem to the overall concept, but their mathematical representation is beyond the author.
