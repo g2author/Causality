@@ -34,7 +34,7 @@ This loss accumulates with the number of interactions that take place, and after
 
 It seems possible that different particle interactions will lose differing amounts of causal information. For example, and interaction that only exchanges momentum would be expected to only lose momentum information, while an interaction that alters particle identity as well will be transforming more parameters, and therefore losing more information. This nuance is worth a lot more attention that I'm able to give it, and for now I'm going to make the simplifying assumption that these losses can be treated as statistically constant. 
 
-If we look a toy system of isotopically stable gas held in thermal equilibrium, we can write an equation to illustrate the concept. Most practical versions of this equation will be much more complex, but the principle will remain the same.
+If we look at a toy system of isotopically stable gas held in thermal equilibrium, we can write an equation to illustrate the concept. Most practical versions of this equation will be much more complex, but the principle will remain the same.
 
 * *I<sub>now</sub>* is the aggregate of all information that is carried by the particles under consideration at time = now. This simplified notion of time disregards the speed of causality.
 * *P<sub>avg</sub>* is the average fraction of causal information retained in each interaction. This number is slightly less than one due to the loss of precision in the calculation that performs the transformation of particle properties, and can be thought of as *precision* or *predictability/postdictability*.
