@@ -3,7 +3,7 @@
 by G2 Author
 
 ## Abstract
-This paper proposes that conservation of information be generalized into the dimension of time so that it includes not only the conservation of instantaneous information, but also conservation of the integral of all extant information, including predictability and postdictability,for any given moment in time. The author is calling this conserved integral *causality*. Satisfaction of this new dimension of conservation ensures that the physical universe is able to exist, and enforces changes upon quantum mechanics, and perhaps general relativity, which the author suspects will allow the unification of physics.
+This paper proposes that conservation of information be generalized into the dimension of time so that it includes not only the conservation of instantaneous information, but also conservation of the integral of all extant information, including predictability and postdictability,for any given moment in time. The author is calling this conserved integral *causality*. Satisfaction of this new dimension of conservation ensures that the physical universe is able to exist, and forces changes upon quantum mechanics, and perhaps general relativity, which the author suspects will allow the unification of physics.
 
 ## This Preprint's Limitations
 The author of this paper is a retired electronics and software engineer, and their knowledge of general relativity and quantum mechanics is limited to fifty years of reading Scientific American and similar publications, which means that, in preprint form at least, this paper's standards of domain expertise and academic rigor will be unavoidably low. Please forward any instances of relevant priority to the author, who means well but just really doesn't know anything.
@@ -16,7 +16,7 @@ The author proposes that information conservation stated in the conventional way
 
 Establishing the meaning of causality requires starting with the most basic question about our physical universe, which is whether or not it is possible for it to have infinite longevity, yet contain finite information. A deterministic, non-repeating, spatially finite billiard-ball universe of infinite longevity would produce a predetermined history of infinite complexity, meaning that such a universe requires at least infinte precision for each property of each particle. The current model of quantum mechanics adds randomness, but it does so without reducing the information requirement below infinity. 
 
-From this we see that if we can create a mathematical description of the universe which works with merely finite information and which contains no internal contradictions, then that description must be infinitely preferable to one which demands infinte information.
+From this we see that if we can create a mathematical description of the universe which works with merely finite information and which contains no internal contradictions, then that description must be infinitely preferable to one which requires infinte information.
 
 Conservation of causality enforces that constraint, which allows a spatially finite universe like ours to come into existence using only a finite amount of information.
 
@@ -34,10 +34,17 @@ This loss accumulates exponentially with the number of interactions that take pl
 
 It seems possible that different particle interactions will lose differing amounts of causal information. For example, and interaction that only exchanges momentum would be expected to only lose momentum information, while an interaction that alters particle identity as well will be transforming more parameters, and therefore losing more information. This nuance is worth a lot more attention that I'm able to give it, and for now I'm going to make the simplifying assumption that these losses can be treated as statistically constant. 
 
-If we look a toy system of isotopically stable gas held in thermal equilibrium, we can write a predictive equation.
+If we look a toy system of isotopically stable gas held in thermal equilibrium, we can write an equation to illustrate the concept. Most practical versions of this equation will be much more complex, but the principle will remain the same.
 
-* *P* is the average fraction of causal information retained in each interaction. This number is slightly less that one.
-* *K* is the average number of interactions that each particle experiences per second.
+* *I<sub>now</sub>* is the aggregate of all information that is carried by the particles under consideration at time = now. This simplified notion of time disregards the speed of causality.
+* *P<sub>avg</sub>* is the average fraction of causal information retained in each interaction. This number is slightly less than one, and can be thought of as *precision*.
+* *K<sub>avg</sub>* is the average number of interactions that each particle experiences per second.
+* *P(t - t<sub>now</sub>)* is the cumulative fraction of causal information wihch is retained during the interactions withing the time interval. It is approximately equal to *P<sub>avg</sub>* raised to the power of *K<sub>avg</sub>* times *(t - t<sub>now</sub>)*, except that it goes to exactly zero at time distances where its result becomes smaller than *(1 - P<sub>avg</sub>)*.
+* *I<sub>then</sub>(t - t<sub>now</sub>)* is all of the information about the moment at time *t* which can be calculated from *I<sub>now</sub>* using infinite precision math.
+
+
+
+
 
  In equation form, causality is the integral of all extant information about how the universe interacts with itself from time negative infinity to time plus infinity for any given *t<sub>now</sub>*. 
 
