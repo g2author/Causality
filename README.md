@@ -39,7 +39,7 @@ If we look a toy system of isotopically stable gas held in thermal equilibrium, 
 * *I<sub>now</sub>* is the aggregate of all information that is carried by the particles under consideration at time = now. This simplified notion of time disregards the speed of causality.
 * *P<sub>avg</sub>* is the average fraction of causal information retained in each interaction. This number is slightly less than one due to the loss of precision in the calculation that performs the transformation of particle properties, and can be thought of as *precision* or *predictability/postdictability*.
 * *K<sub>avg</sub>* is the average number of interactions that each particle experiences per second.
-* *P(t - t<sub>now</sub>)* is the cumulative fraction of causal information wihch is retained during the interactions withing the time interval. It is approximately equal to *P<sub>avg</sub>* raised to the power of *(K<sub>avg</sub>* &#215; *(t - t<sub>now</sub>))*, except that it goes to exactly zero for time distances beyond which the magnitude of the result dips below approximately *(1 - P<sub>avg</sub>)*.
+* *P(t - t<sub>now</sub>)* is the cumulative fraction of causal information wihch is retained during the interactions within the time interval. It is approximately equal to *P<sub>avg</sub>* raised to the power of *(K<sub>avg</sub>* &#215; *(t - t<sub>now</sub>))*, except that it goes to exactly zero for time distances beyond which the magnitude of the result dips below approximately *(1 - P<sub>avg</sub>)*.
 * *I<sub>then</sub>(t - t<sub>now</sub>)* is all of the information about the moment at time *t* which can be calculated from *I<sub>now</sub>* using infinite precision math.
 * *C* is the conserved value of causality.
 
@@ -53,7 +53,7 @@ The author does not know what the dimensionality of terms *I<sub>then</sub>* or 
 ### Some interactions may perhaps be lossless
 Because loss of causality happens due to loss of precision during computationally non-trivial interactions, it seems possible that there could exist mathematically trivial interactions which might escape this loss. Perhaps photon reflections which are close enough to normal might invoke a lossless transform of sign inversion, for example.
 
-## Time is not reversible
+### Time is not reversible
 The loss of causality during non-trivial interactions means that time is fundamentally irreversible in a universe defined by a finite amount of information.
 
 ### Causality in the presence of structure
