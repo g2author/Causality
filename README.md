@@ -6,35 +6,36 @@ by G2 Author
 This paper proposes that conservation of information be generalized into the dimension of time so that it includes not only the conservation of instantaneous information, but also conservation of the integral of all extant information, including predictability and postdictability,for any given moment in time. The author is calling this conserved integral *causality*. Satisfaction of this new dimension of conservation ensures that the physical universe is able to exist, and forces changes upon quantum mechanics, and perhaps general relativity, which the author suspects will allow the unification of physics.
 
 ## This Preprint's Limitations
-The author of this paper is a retired electronics and software engineer, and their knowledge of general relativity and quantum mechanics is limited to fifty years of reading Scientific American and similar publications, which means that, in preprint form at least, this paper's standards of domain expertise and academic rigor will be unavoidably low. Please forward any instances of relevant priority to the author, who means well but just really doesn't know anything.
+The author of this paper is a retired electronics and software engineer, and their knowledge of general relativity and quantum mechanics is limited to Scientific American and similar publications, which means that, in preprint form at least, this paper's standards of domain expertise and academic rigor will be unavoidably low. Please forward any instances of error or relevant priority to the author, who means well but just really doesn't know anything.
+
+## Defining Causality
+The traditional way of viewing subatomic particles is in terms of their various parameters, each of which contribute to each particle's mass-energy.
+
+This paper proposes that an additional item be added to the physics toolbox, which is to consider that the entire mass-energy of a subatomic particle can also be considered as a single abstract property we can call *causality*, which is the ability of the particle to affect the future state of the universe, and to allow inference of former states of the universe. These two abilities are the same thing, but described from different time directions.
+
+The concept of causality is equivalent to considering *past* and *future* as properties that a particle possesses just like momentum or charge. 
 
 ## Conservation of Causality
-### The sum of the universe's causal information is constant
-The current view of conservation of information says that information is never lost, and this has proven true in countless experiments.
+Because causality is another view of mass-energy, it is necessarily conserved. This means that each subatomic particle has a fixed amount of past and future. In fact, each subatomic particle *is* a fixed amount of past and future.
 
-The author proposes that information conservation stated in the conventional way is not fundamental, and is rather a special case of a more restrictive and more general law: the *conservation of causality*.
+This identification of mass-energy with the information it contains implies the very useful constraint that a universe of finite size yet infinite longevity may be created using only a finite amount of information. This is in conflict with quantum mechanics, which requires infinite precision both to define a single particle and during the process of computation which mediates particle interaction. This need for infinite precision is physically absurd, and it leads to absurdities such as endlessly proliferating multiverses, or asking that a single black hole which has somehow swallowed an entire universe must contain not only the particles, but unlimited amounts of those particles' causal history as well.
 
-Establishing the meaning of causality requires starting with the most basic question about our physical universe, which is whether or not it is possible for it to have infinite longevity, yet contain finite information. A deterministic, non-repeating, spatially finite billiard-ball universe of infinite longevity would produce a predetermined history of infinite complexity, meaning that such a universe requires at least infinte precision for each property of each particle. The current model of quantum mechanics adds randomness, but it does so without reducing the information requirement below infinity. 
+Universes which violate conservation of causality by maintaining excess history are required to somehow encode information in amounts that are arbitrarily larger than the mass-energy of their constituent particles, and this renders them infinitely implausible compared to a universe which holds only the amount of history and predictability that can be represented in its aggregate mass-energy.
 
-From this we see that if we can create a mathematical description of the universe which works with merely finite information and which contains no internal contradictions, then that description must be infinitely preferable to one which requires infinte information.
+It is worth stressing that causality requires two different ways of thinking about history; causal, and non-causal. Causal history is the history which has the ability to influence the future, and non-causal history is the history which could be seen by an omnicient observer to have happened, yet which has no effect on the present or future. For example, nearly all of the information about the various states of the early universe is non-causal for us in the present. Only the tiny amount of information represented by the microwave background and similar long-lived effects remains.
 
-Conservation of causality enforces that constraint, which allows a spatially finite universe like ours to come into existence using only a finite amount of information.
+## The Physical Mechanism for Loss and Creation of Causality
 
-Establishing that our universe must contain finite information despite its potentially infinite longevity immediately points to particles as the containers of very nearly all of the universe's information. Non-particle entities in the universe occur at very large scales, which makes their information-carrying capacity vanishingly small compared to that of particles.
+Identifyng causality with a particle's mass energy tells us that the causality of a particle is finite, which implies a fundamental limitation on the result of two particles interacting. This is because the limited mass-energy available to encode causality also implies that the various parameters of the particle are also stored with limited precision. 
 
-Knowing that the universe's finite informaton is contained in particles tells us that the information contained in each particle is finite, which further tells us that the various parameters that compose the physical existence of the particle, such as position and momentum, must have limited precision. Of course it is assumed that the information is physically contained in the particle's mass-energy, since that is the simplest mechanism.
+If we consider a simple momentum exchange, before the two particles meet, they each have their momentum property stored with limited precision, and after they interact they have differing momenta stored with the same precision.
 
-That limited precision is a (and perhaps the) primary source of fundamental randomness in our universe. Each time two particles interact, their interaction performs a calculation using the limited precision of the available information, and the calculation creates a result set of new particles whose total mass-energy and total information quantity are conserved, and that conserved information is encoded into the new particles. 
+It is conceivable that if the two particles hit exactly head on (or close enough), there might be no need for non-trivial calculation. Perhaps the two particles could simply swap momenta, which could conceivably be lossless. And its tempting to speculate that a photon reflecting from a mirror at a normal angle might also be lossless. But for the more common case of oblique impact, some kind of computation must take place which takes two limited precision values as input and produces two limited precision values as output. Even with the reasonable assumption that the computation itself can carry excess information in intermediate steps to avoid calculation losses, storing the result into limited precision outputs is an inherently lossy operation. This loss of information is destructive and irreversible.
 
-Although the new particles contain the same total amount of information as the old particles, they do *not* contain all of the information in the original particle set. Some of that information has been lost due to limited precision, and the new particles gain the complete certainty of their own state that comes from holding the defining data. This loss of precision represents a reduced ability to infer the state of the old particles from the information in the new particles. In other words, a small piece of the causal past has been lost forever, making the calculation only approximately reversible.
+At the same time that this older information is lost, newer information comes into being in exact balance. The new information is contained in the difference between the new states of the colliding particles and the slightly different new states that would have existed if precision were not limited. The actual new value is now the authority on the state of the universe, and this tiny bit of difference information that is exact by reason of existential auhority is the newer information about the future of the universe which has come into being. The new information will provide more predictability into the future than the older informaiton by this tiny amount.
 
-In our physical reality this loss is experimentally indectable over the smallish numbers of interactions that are captured by experiment, giving the impression that information is conserved with infinite precision.
-
-This loss accumulates with the number of interactions that take place, and after a sufficient number of interactions it reduces the causal significance of the more distant past to where it is lower in magnitude that the randomness injected into the process at each step by loss of precision, at which point the causal influence of any events farther in the past has reached exactly zero.
-
-It seems possible that different particle interactions will lose differing amounts of causal information. For example, and interaction that only exchanges momentum would be expected to only lose momentum information, while an interaction that alters particle identity as well will be transforming more parameters, and therefore losing more information. This nuance is worth a lot more attention that I'm able to give it, and for now I'm going to make the simplifying assumption that these losses can be treated as statistically constant. 
-
-If we look at a toy system of isotopically stable gas held in thermal equilibrium, we can write an equation to illustrate the concept. Most practical versions of this equation will be much more complex, but the principle will remain the same.
+## A Simple Example
+Here is an equation for a monatomic gas in thermal equilibrium. Most practical versions of this equation will be much more complex, but the principle will remain the same.
 
 * *I<sub>now</sub>* is the aggregate of all information that is carried by the particles under consideration at time = now. This simplified notion of time disregards the speed of causality.
 * *P<sub>avg</sub>* is the average fraction of causal information retained in each interaction. This number is slightly less than one due to the loss of precision in the calculation that performs the transformation of particle properties, and can be thought of as *precision* or *predictability/postdictability*.
@@ -49,21 +50,20 @@ If we look at a toy system of isotopically stable gas held in thermal equilibriu
 
 The author does not know what the dimensionality of terms *I<sub>then</sub>* or *C* should be, but that deficit does not affect the implications of the conserved property.
 
-## Implications
-### Some interactions may perhaps be lossless
-Because loss of causality happens due to loss of precision during computationally non-trivial interactions, it seems possible that there could exist mathematically trivial interactions which might escape this loss. Perhaps photon reflections which are close enough to normal might invoke a lossless transform of sign inversion, for example.
+## Correcting Conservation of Information
+If we set *t = t_<sub>now</sub>*, the resulting equation becomes the standard concept of conservation of information, and we can see that experimental results dealing with smallish numbers of interactions will agree with this simplified system.
 
-### Time is not reversible
-The loss of causality during non-trivial interactions means that outside of carefully managed environments and interactions, time is fundamentally irreversible in a universe defined by a finite amount of information.
+It is only when the number of interactions becomes large that conservation of causality starts to impose measurable loss of causality, and therefore information, over time.
 
-### Causality in the presence of structure
-It is relatively easy to visualize causality for liquids, gasses, and plasmas, but the self-stabilizing structure of solids make them more difficult to visualize. They pose no problem to the overall concept, but their mathematical representation is beyond the author.
+## A New Source of Randomness
+Those tiny new bits of causality which accrue into the newer state after a particle interaction are a fundamental source of randomness in the physical universe. This information arises only from the way in which subatomic interactions solve the problem of rounding, and we may assume that however the universe does this, it won't involve any of the patterned errors that arise in some base-10 digital calculatons. Parsimony, I belive, insists that the added information will be purely random.
 
-### Conservation of causality versus conservation of information
-For small interactional distances, *P(t - t<sub>now</sub>)* is so close to unity that conservation of causality collapses to the current incorrect view of conservation of information, which makes the information-proliferating assumption that *P(t - t<sub>now</sub>)* is unity for all time *t*.
+## Rehabilitating Black Holes
+Although newer particles contain the same total amount of information as the older source particles, they do *not* contain all of the information in the original particle set. A small piece of the causal past has been lost forever, making the calculation only approximately reversible.
 
-### Event horizons are no longer so interesting
-Knowing that specific causality is not conserved while the sum total of causality is conserved simplifies black holes enormously. Rather than information being mysteriously encoded onto an event horizon, an infalling body gets bathed in high-temperature and high-pressure reactions which quickly erases any causality contained in the structure of the infalling body. The simple mass-energy of the black hole is then a perfecly fitting container for all of the black hole's information.
+This irreversibility radically redefines the behavior of black holes event horizons as (relatively) simple thermal processes which cheerfully destroy all of the causal history contained in infalling objects, and retain only the infalling mass-energy as stored information.
 
 ## Next Steps
+By providing a path to make quantum mechanics conform to the finite information behavior of real particles and taming event horizons, conservation of causality seems to offer some worthwhile advantages. 
+
 The author’s enthusiasm and mathematical skills break down completely at this point, and they have no intention of pursuing this beyond this basic sketch. They hope that others will find this idea useful.
